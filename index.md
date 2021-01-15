@@ -27,7 +27,3 @@ I prefer using:
 [GitHub](https://github.com/mabdullahabid)  
 [LinkedIn](https://www.linkedin.com/in/mabdullahabid/)  
 [Email](mailto:hi@mabdullahabid.com)
-
----
-
-Updated: 2021-01-15
