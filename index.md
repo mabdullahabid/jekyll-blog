@@ -13,4 +13,4 @@ USA Warrior Stories
 
 ---
 
-Updated: 2021-01-13
+Updated: 2021-01-15
