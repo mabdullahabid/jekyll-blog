@@ -1,5 +1,5 @@
 ### Recent Projects
-Leagent
+Leagent  
 DOST Bikes  
 Elixir of Technology  
 InsurSimple  
