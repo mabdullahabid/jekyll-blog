@@ -1,6 +1,6 @@
 ---
 title: Projects
-layout: default
+layout: page
 ---
 
 #### Autonomous Technologies Inc.
