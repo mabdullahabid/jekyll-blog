@@ -1,4 +1,4 @@
-[GitHub](https://github.com/mabdullahabid)
+[GitHub](https://github.com/mabdullahabid)  
 [Email](mailto:hi@mabdullahabid.com)
 
 ---
