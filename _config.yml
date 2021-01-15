@@ -3,3 +3,7 @@ remote_theme: jekyll/minima
 author:
   name: Muhammad Abdullah Abid
   email: hi@mabdullahabid.com
+minima:
+  social_links:
+    github: mabdullahabid
+    linkedin: jekyll
