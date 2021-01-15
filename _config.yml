@@ -1,4 +1,5 @@
 title: Muhammad Abdullah Abid
-theme: minima
-author: Muhammad Abdullah Abid
-email: "hi@mabdullahabid.com"
+remote_theme: jekyll/minima
+author:
+  name: Muhammad Abdullah Abid
+  email: hi@mabdullahabid.com
