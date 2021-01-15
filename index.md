@@ -22,7 +22,7 @@ I prefer using:
 [USA Warrior Stories](https://usawarriorstories.org)  
 [CARL](https://investwithcarl.com)  
 
-**[View all projects](/projects/all)**
+**[View all projects](projects.md)**
 
 ### Contact
 [GitHub](https://github.com/mabdullahabid)  
