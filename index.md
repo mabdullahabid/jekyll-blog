@@ -14,8 +14,3 @@ I prefer using:
 [Tahjir](https://tahjir.com) - Autonomous Technologies Inc.  
 
 **[View all projects](projects.md)**
-
-### Contact
-[GitHub](https://github.com/mabdullahabid)  
-[LinkedIn](https://www.linkedin.com/in/mabdullahabid/)  
-[Email](mailto:hi@mabdullahabid.com)
