@@ -5,10 +5,10 @@ layout: page
 
 Hi, I'm Abdullah, an aspiring developer. I love building things, hanging out with my wife, and playing with my kids.
 
-I prefer using:  
-- Python and Django Web Framework to build powerful apps  
-- Docker Compose to develop, ship and deploy code seamlessly  
-- Amazon Web Services to host and scale efficiently
+#### I prefer using
+Python and Django Web Framework to build powerful apps  
+Docker Compose to develop, ship and deploy code seamlessly  
+Amazon Web Services to host and scale efficiently
 
 ### Recent Projects
 [Nelson Group of Companies](https://nlc.ca) - Top Draw Inc.  
