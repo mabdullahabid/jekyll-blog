@@ -7,13 +7,22 @@ I prefer using:
 \- Amazon Web Services to host and scale efficiently
 
 ### Recent Projects
-Leagent  
-DOST Bikes  
-Elixir of Technology  
-InsurSimple  
-Tahjir  
-USA Warrior Stories  
-CARL  
+
+[Nelson Group of Companies](https://nlc.ca)
+
+#### Autonomous Technologies Inc.
+[Tahjir](https://tahjir.com)  
+
+#### Setsail Interactive Inc.
+[Leagent](https://leagent.com)  
+[DOST Bikes](https://dostbikes.com)  
+[InsurSimple](https://insursimple.ca)  
+
+#### Crowdbotics
+[USA Warrior Stories](https://usawarriorstories.org)  
+[CARL](https://investwithcarl.com)  
+
+**[View all projects](/projects/all)**
 
 ### Contact
 [GitHub](https://github.com/mabdullahabid)  
