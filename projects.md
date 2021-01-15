@@ -1,4 +1,6 @@
-### Projects
+---
+title: Projects
+---
 
 #### Autonomous Technologies Inc.
 [Tahjir](https://tahjir.com)  
