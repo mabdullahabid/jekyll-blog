@@ -20,7 +20,6 @@ I prefer using:
 
 #### Crowdbotics
 [USA Warrior Stories](https://usawarriorstories.org)  
-[CARL](https://investwithcarl.com)  
 
 **[View all projects](projects.md)**
 
