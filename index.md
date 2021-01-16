@@ -2,7 +2,7 @@
 layout: home
 ---
 
-Hi, I'm Abdullah, an aspiring developer. I love building things, hanging out with my wife, and playing with my kids.
+Hi, I'm **Abdullah**, an aspiring developer. I love building things, hanging out with my wife, and playing with my kids.
 
 ### I prefer using
 **Python** and **Django Web Framework** to build powerful apps  
