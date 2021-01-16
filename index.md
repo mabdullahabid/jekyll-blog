@@ -1,6 +1,5 @@
 ---
 layout: home
-title: About
 list_title: Blog
 ---
 
