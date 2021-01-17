@@ -57,10 +57,10 @@ That’s it! This is a pretty straight-forward process, and if you’re familiar
 Another way to do this would be to add the code to a launch script which is run at the time of instance initialization. Something like:
 
 ```#!/bin/bash
-curl -fsSL https://get.docker.com -o get-docker.sh
-sudo sh get-docker.sh
-sudo usermod -aG docker ubuntu
-sudo systemctl enable docker
-sudo curl -L "https://github.com/docker/compose/releases/download/1.27.4/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
-sudo chmod +x /usr/local/bin/docker-compose
+curl -fsSL https://get.docker.com -o get-docker.sh  
+sudo sh get-docker.sh  
+sudo usermod -aG docker ubuntu  
+sudo systemctl enable docker  
+sudo curl -L "https://github.com/docker/compose/releases/download/1.27.4/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose  
+sudo chmod +x /usr/local/bin/docker-compose  
 ```
