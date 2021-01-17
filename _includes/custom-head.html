@@ -9,13 +9,13 @@
     }
     function setModifiedDate() {
       if (document.getElementById('last-modified')) {
-        fetch("https://api.github.com/repos/ryanfb/etc/commits?path=_posts/2020-04-27-last_modified_dates_for_github_pages_jekyll_posts.md")
+        fetch("https://api.github.com/repos/{{ site.github.owner_name }}/{{ site.github.repository_name }}/commits?path={{ page.path }}")
           .then((response) => {
             return response.json();
           })
           .then((commits) => {
             var modified = commits[0]['commit']['committer']['date'].slice(0,10);
-            if(modified != "2020-04-27") {
+            if(modified != "{{ page.date | date: "%b %-d, %Y" }}") {
               document.getElementById('last-modified').textContent = "Last Modified: " + modified;
             }
           });
