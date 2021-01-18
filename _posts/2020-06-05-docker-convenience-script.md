@@ -56,7 +56,8 @@ That’s it! This is a pretty straight-forward process, and if you’re familiar
 ### Launch Script
 Another way to do this would be to add the code to a launch script which is run at the time of instance initialization. Something like:
 
-```#!/bin/bash
+```
+#!/bin/bash
 curl -fsSL https://get.docker.com -o get-docker.sh  
 sudo sh get-docker.sh  
 sudo usermod -aG docker ubuntu  
